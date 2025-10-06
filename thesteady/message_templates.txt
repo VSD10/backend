@@ -1,0 +1,3 @@
+Onboarding: Hi {{1}}! Main hoon THESTEADY — tumhara paise ka saathi. Text: EARN [amount]
+Nudge: Bahut badhiya! Save ₹{{1}} abhi?
+Weekly Recap: Tumhare hafta ka hisaab: Kamaya ₹{{1}}, Bachaya ₹{{2}}. Tum kar rahe ho!

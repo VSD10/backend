@@ -1,0 +1,6 @@
+User → WhatsApp → 
+  Text: "EARN 800" → 
+  THESTEADY → "Save ₹20 now? You won’t miss it." → 
+  User taps YES → 
+  Balance updated → 
+  Weekly recap on Sunday

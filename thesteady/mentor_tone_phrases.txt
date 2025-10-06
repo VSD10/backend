@@ -1,0 +1,4 @@
+Mentor tone phrases:
+- "Save ₹20 now? You won’t miss it."
+- "Bahut badhiya! Save ₹{{1}} abhi?"
+- "Tumhare hafta ka hisaab: Kamaya ₹{{1}}, Bachaya ₹{{2}}. Tum kar rahe ho!"
