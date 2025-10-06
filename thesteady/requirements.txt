@@ -4,4 +4,3 @@ requests
 python-dotenv
 Pillow
 pytesseract
-gunicorn
